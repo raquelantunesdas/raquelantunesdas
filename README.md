@@ -1,7 +1,7 @@
 <h1 align="center">🌟 Hey there! I'm Raquel Antunes 🌟</h1>
 
 <p align="center">
-Transitioning into Data Analysis • Former Content Reviewer • Performing Arts Background
+Transitioning into Data Analysis • Former Content Reviewer • Music and Performing Arts Background
 </p>
 
 ---
@@ -33,9 +33,10 @@ I am consistently improving my skills through courses, personal projects, and ca
 
 ### 🔧 Technical Skills
 - 🐍 Python  
-- 🗄️ SQL  
-- 📊 Data Cleaning & Exploration  
-- 🎨 UX Fundamentals  
+- 🗄️ SQL
+- 📊 Power BI
+- 🧹 Data Cleaning & Exploration  
+- 🎨 UX Fundamentals (intro level) 
 - 🔐 Cybersecurity (intro level)  
 
 ### 💡 Soft Skills
