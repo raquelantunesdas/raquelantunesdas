@@ -9,11 +9,7 @@ Transitioning into Data Analysis • Music and Performing Arts Background
 <div align="center">
 
 ### 🚀 Tech & Tools  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-006600?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Analysis-1A73E8?style=for-the-badge&logo=google-analytics&logoColor=white" />
-<img src="https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=security&logoColor=white" />
-<img src="https://img.shields.io/badge/UX%20Design-8E44AD?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-0066CC?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" /> <img src="https://img.shields.io/badge/Data%20Analysis-1A73E8?style=for-the-badge&logo=google-analytics&logoColor=white" /> <img src="https://img.shields.io/badge/Cybersecurity-FF4D4D?style=for-the-badge&logo=security&logoColor=white" /> <img src="https://img.shields.io/badge/UX%20Design-8E44AD?style=for-the-badge&logo=figma&logoColor=white" />
 
 </div>
 
