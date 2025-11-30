@@ -1,10 +1,3 @@
-## Hi there, I'm Raquel! 👋
-
-<!--
-**raquelantunesdas/raquelantunesdas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 <h1 align="center">🌟 Hey there! I'm Raquel Antunes 🌟</h1>
 
 <p align="center">
@@ -97,4 +90,3 @@ I am consistently improving my skills through courses, personal projects, and ca
 ---
 
 <p align="center">✨ Thanks for stopping by! Always open to connecting and collaborating. ✨</p>
-
