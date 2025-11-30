@@ -46,7 +46,8 @@ I am consistently improving my skills through courses, personal projects, and ca
 
 ## 🌍 Languages  
 - 🇪🇸 **Spanish:** Advanced  
-- us **English:** Intermediate  
+- 🇺🇸 **English:** Intermediate
+  
 
 ---
 
